@@ -201,7 +201,7 @@ function BeliLangsung($no, $wait, $id){
             </form>
              <textarea class="form-control input-sm" type="textarea" placeholder="message" maxlength="150" rows="2" style="text-align: center;" readonly><?php echo $respon; ?></textarea>
 <center>
-    <p> &copy; 2018 By Satria Wibawa</p>
+    <p> &copy; 2018 By wawanwinarto-tech</p>
 <center>
     </div>
 </body>
